@@ -164,41 +164,28 @@ html, body {
 	background: #F2D388;
 }
 
-#c {
+#a {
 	background: #974C62;
 }
 
-#a {
+#c {
 	background: #C98474;
-}
-
-.text {
-	display: block;
-
 }
 
 .person:hover .overlay {
 	opacity: 1;
 }
 
-/*.person:hover .overlay {
-	opacity: 1;
-}*/
-
-/*.overlay {
-  height: 100%;
-  width: 100%;
-  border-radius: 50%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #008CBA;
-}*/
-
 
 .text {
-  color: white;
-  font-size: 20px;
+  color: #4D4D4D;
+  font-size: 30px;
   -ms-transform: translate(-50%, -50%);
+}
+
+.sub {
+	color: #4D4D4D;
+	font-size: 15px;
 }
 
 #design {
