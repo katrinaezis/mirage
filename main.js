@@ -7,4 +7,5 @@ $(document).ready(function() {
         scrollTop: $("#problem").offset().top},
         'slow');
 	});
+
 });
